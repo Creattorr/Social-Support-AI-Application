@@ -1,0 +1,20 @@
+John Doe
+------------
+Phone: +971-5X-XXX-XXXX
+Email: john.doe@example.com
+
+Profile:
+Motivated individual with experience in logistics and warehouse management.
+Seeking opportunities for upskilling and economic enablement.
+
+Experience:
+- Warehouse Assistant at Logistics Co (2019–2022)
+- Delivery Partner at FoodTech (2017–2019)
+
+Education:
+- High School Diploma
+
+Skills:
+- Forklift operation
+- Inventory tracking
+- Basic computer literacy
