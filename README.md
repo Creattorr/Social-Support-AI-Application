@@ -56,6 +56,7 @@ python eligibility_model/train_model.py
 ```bash
 uvicorn api.main:app --reload
 ```
+Then open: http://localhost:8000/docs
 
 ### 2. Start UI
 ```bash
